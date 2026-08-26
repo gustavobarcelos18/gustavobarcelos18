@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gustavo Rodrigues Barcelos!
 
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=gustavobarcelos18&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF" />
+
 
 🎓 Estudante, estagiário e desenvolvedor apaixonado por tecnologia.
 
