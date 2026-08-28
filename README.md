@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gustavo Rodrigues Barcelos!
+# 👋 Olá, eu sou Gustavo Barcelos!
 
 
 
