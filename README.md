@@ -20,7 +20,7 @@ utilizando tecnologias modernas do ecossistema web e .NET.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,cs,dotnet,git,github,vscode&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,cs,dotnet,git,github,vscode&perline=11" />
 
 </div>
 
@@ -30,7 +30,7 @@ utilizando tecnologias modernas do ecossistema web e .NET.
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs" />
 
 </div>
 
