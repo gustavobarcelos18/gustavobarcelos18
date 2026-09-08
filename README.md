@@ -13,7 +13,7 @@ Atualmente trabalho principalmente com **C#, ASP.NET Core, TypeScript, React e N
 ### Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
 </p>
 
 * C#
@@ -21,7 +21,6 @@ Atualmente trabalho principalmente com **C#, ASP.NET Core, TypeScript, React e N
 * Entity Framework Core
 * APIs REST
 * Node.js
-* Express
 * Swagger / OpenAPI
 * Serilog
 
