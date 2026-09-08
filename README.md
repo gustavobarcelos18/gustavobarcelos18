@@ -117,45 +117,6 @@ Principais recursos:
 
 ---
 
-## 📦 Gestão de Almoxarifado
-
-Sistema Full Stack para controle de empréstimos e devoluções de equipamentos.
-
-**Stack:** Next.js, Express e MySQL.
-
-Principais recursos:
-
-* cadastro de alunos e equipamentos;
-* controle de empréstimos;
-* controle de disponibilidade;
-* registro de devoluções;
-* identificação de empréstimos atrasados;
-* preservação do histórico;
-* dashboard com informações operacionais.
-
-🔗 [Ver projeto](https://github.com/gustavobarcelos18/GestaoAlmoxarifado)
-
----
-
-## 🧪 Mini Loja — Testes
-
-Projeto educacional focado em testes automatizados de interfaces React.
-
-**Stack:** Next.js, TypeScript, Jest e React Testing Library.
-
-Conceitos praticados:
-
-* testes de componentes;
-* testes de interação;
-* mocks;
-* `userEvent`;
-* validação de formulários;
-* testes orientados ao comportamento do usuário.
-
-🔗 [Ver projeto](https://github.com/gustavobarcelos18/trabalho-miniloja-testes-rpv)
-
----
-
 # 🧠 Atualmente estudando
 
 ```text
@@ -170,33 +131,7 @@ TypeScript
 Boas práticas de engenharia de software
 ```
 
-Meu objetivo atual é aprofundar os fundamentos por trás das tecnologias que utilizo, principalmente em **back-end, bancos de dados, arquitetura e desenvolvimento de aplicações Full Stack**.
-
----
-
-# 📈 Evolução
-
-Tenho utilizado meus projetos como laboratório de estudo para evoluir progressivamente de aplicações front-end simples para sistemas completos envolvendo:
-
-```text
-Interface
-    ↓
-React / Next.js
-    ↓
-API REST
-    ↓
-ASP.NET Core / Express
-    ↓
-Regras de negócio
-    ↓
-Entity Framework / SQL
-    ↓
-MySQL / SQLite
-    ↓
-Logs, testes e manutenção
-```
-
-Busco construir projetos que representem problemas reais e me permitam entender não apenas **como implementar uma funcionalidade**, mas também **por que determinada solução é utilizada e quais são seus impactos na arquitetura da aplicação**.
+Meu objetivo atual é aprofundar os fundamentos por trás das tecnologias que utilizo, principalmente em **back-end, bancos de dados, arquitetura e desenvolvimento de aplicações Full Stack**. Busco construir projetos que representem problemas reais e me permitam entender não apenas **como implementar uma funcionalidade**, mas também **por que determinada solução é utilizada e quais são seus impactos na arquitetura da aplicação**.
 
 ---
 
